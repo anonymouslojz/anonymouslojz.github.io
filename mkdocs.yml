@@ -2,5 +2,6 @@ site_name: My Docs
 nav:
 - Home: index.md
 - About: about.md
+- Linux Git: Git_SSH.md
 theme:
   name: readthedocs
