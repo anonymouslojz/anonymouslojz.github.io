@@ -4,4 +4,4 @@ nav:
 - About: about.md
 - Linux Git: Git_SSH.md
 theme:
-  name: readthedocs
+  name: mkdocs
